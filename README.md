@@ -11,4 +11,4 @@ O painel também incorpora gráficos de séries temporais que destacam as tendê
 
 O Google Data Studio se revela uma ferramenta poderosa para criar dashboards interativos e informativos que facilitam a análise de dados complexos, promovendo uma compreensão mais profunda da situação da COVID-19 no Brasil.
 
-![DashBoard][Captura de Tela 2023-10-26 às 10.30.08.png]
+<img width="469" alt="Captura de Tela 2023-10-26 às 10 30 08" src="https://github.com/seblutzer/Covid-Brasil/assets/114627479/0279f83c-994d-4991-abd5-0040f598e935">
